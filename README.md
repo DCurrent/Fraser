@@ -1,6 +1,6 @@
 # Overview
 
-Freser is a very simple object class seeking to solve the oft encountered issue of encoding request variables into a URL without overwriting the prexisting requests. 
+Fraser is a very simple object class seeking to solve the oft encountered issue of encoding request variables into a URL without overwriting the prexisting requests. 
 
 ## Name Orign 
 
